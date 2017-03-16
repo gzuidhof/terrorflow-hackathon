@@ -19,7 +19,7 @@ This is a multi-label computer vision problem which we tackled with deep learnin
 Our team consisted of four people with a machine learning/data science background.
 
 * Bas van Berkel 
-* Joris van Vugt @jjlvugt
+* Joris van Vugt @jvanvugt
 * Steven Reitsma @StevenReitsma
 * Guido Zuidhof @gzuidhof
 
