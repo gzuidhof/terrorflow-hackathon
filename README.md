@@ -9,7 +9,7 @@ TerrorFlow, 24 hour AIVD hackathon project
 
 ## Description
 
-This repository contains the code for the AIVD (Dutch National Intelligence and Security Agency) hackathon. We created a system for automatic detection of new extermists which may be worth keeping a closer eye on for the AIVD. 
+This repository contains the code for the AIVD (Dutch National Intelligence and Security Agency) hackathon. We created a system for automatic detection of new extremists which may be worth keeping a closer eye on for the AIVD. 
 
 We do this by recognizing certain aspects of images, of which the combination may be especially interesting. For instance, an AK-47 in an image on Instagram is not that interesting, but an AK-47 in a desert environment with a Dutch burning flag may be very interesting. 
 
