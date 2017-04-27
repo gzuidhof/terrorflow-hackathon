@@ -2,8 +2,6 @@
 TerrorFlow, 24 hour AIVD hackathon project
 
 ## [**Video**](https://www.youtube.com/watch?v=uEGZrlZVnL0)
-
-## Screenshot
 [![](http://i.imgur.com/6BveVBl.png)](https://www.youtube.com/watch?v=uEGZrlZVnL0)
 
 
