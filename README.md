@@ -25,3 +25,8 @@ Our team consisted of four people with a machine learning/data science backgroun
 * Guido Zuidhof [@gzuidhof](https://www.github.com/gzuidhof)
 
 ## Tech
+- TensorFlow
+- Keras
+- Vue.js
+- Flask
+- AWS
